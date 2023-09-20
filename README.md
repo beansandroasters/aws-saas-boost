@@ -1,4 +1,4 @@
-### English | [日本語](./docs/ja/README.md)
+### English | [日本語](./docs/ja/README.ja.md)
 
 # AWS SaaS Boost
 
